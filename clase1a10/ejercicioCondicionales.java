@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author inbane
  */
-public class ejercicioEjemplo {
+public class ejercicioCondicionales {
 
     /**
      * @param args the command line arguments
