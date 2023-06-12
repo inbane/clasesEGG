@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package clase1a10;
+package clase1a10.ejerciciosDeVideos;
 import java.util.Scanner;
 /**
  *
